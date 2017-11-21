@@ -3,11 +3,11 @@
   <title>iVerb.X</title>
   
   
-  <link href="/iverb.github.io/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://github.com/iVerb/"/>
+  <link href="https://github.com/iVerb/iverb.github.io/"/>
   <updated>2017-11-21T14:03:24.802Z</updated>
-  <id>https://github.com/iVerb/</id>
+  <id>https://github.com/iVerb/iverb.github.io/</id>
   
   <author>
     <name>iVerb</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Command</title>
-    <link href="https://github.com/iVerb/2017/11/22/Command/"/>
-    <id>https://github.com/iVerb/2017/11/22/Command/</id>
+    <link href="https://github.com/iVerb/iverb.github.io/2017/11/22/Command/"/>
+    <id>https://github.com/iVerb/iverb.github.io/2017/11/22/Command/</id>
     <published>2017-11-21T19:49:13.000Z</published>
     <updated>2017-11-21T14:03:24.802Z</updated>
     
@@ -34,10 +34,10 @@
     
     </summary>
     
-      <category term="Maya" scheme="https://github.com/iVerb/categories/Maya/"/>
+      <category term="Maya" scheme="https://github.com/iVerb/iverb.github.io/categories/Maya/"/>
     
     
-      <category term="python" scheme="https://github.com/iVerb/tags/python/"/>
+      <category term="python" scheme="https://github.com/iVerb/iverb.github.io/tags/python/"/>
     
   </entry>
   
